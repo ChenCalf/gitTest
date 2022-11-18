@@ -1,2 +1,2 @@
-我是c.txt beta
+我是c.txt 1 2 3
 
