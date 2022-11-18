@@ -1,2 +1,1 @@
-我是c.txt beta
-
+我是c.txt
